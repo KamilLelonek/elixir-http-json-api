@@ -1,0 +1,2 @@
+defmodule MinimalServer do
+end
